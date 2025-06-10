@@ -1,5 +1,7 @@
 absl-py==0.15.0
+altgraph==0.17.4
 astunparse==1.6.3
+Babel==2.11.0
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1702571698061/work
 cached-property==1.5.2
@@ -44,6 +46,7 @@ opt-einsum==3.3.0
 packaging==21.3
 pandas==1.1.5
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1595548966091/work
+pefile==2024.8.26
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 Pillow==8.4.0
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1670414775770/work
@@ -52,14 +55,22 @@ pyasn1==0.5.1
 pyasn1-modules==0.3.0
 pydicom==2.3.1
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1672682006896/work
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.0
 pykwalify==1.8.0
+pylibjpeg==1.3.0
+pylibjpeg-libjpeg==1.2.0
+pylibjpeg-openjpeg==1.1.1
+pylibjpeg-rle==1.1.0
 pynrrd==0.4.3
 pyparsing==3.1.4
 pyradiomics==3.0.1
 python-dateutil==2.9.0.post0
+python-gdcm==3.0.24
 pytz==2024.2
 PyWavelets==1.1.1
 pywin32==301
+pywin32-ctypes==0.2.3
 pyzmq @ file:///D:/bld/pyzmq_1631793604214/work
 radiomics==0.1
 requests==2.27.1
@@ -85,6 +96,7 @@ tensorflow-estimator==2.6.0
 termcolor==1.1.0
 threadpoolctl==3.1.0
 tifffile==2020.9.3
+tkcalendar==1.6.1
 torch==1.10.2
 torchvision==0.11.3
 tornado @ file:///D:/bld/tornado_1610094881553/work
